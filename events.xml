@@ -4,11 +4,21 @@
 
 	<event>
 		<id>1</id>
-		<name>XML Events</name>
+		<name>NET Coaching - Computer Science &amp; Application by Dr. P. K. Swain</name>
 		<startdate>2018-11-2</startdate>
-		<enddate>2018-11-3</enddate>
-		<starttime>12:00</starttime>
-		<endtime>2:00</endtime>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#ffb128</color>
+		<url></url>
+	</event>
+	<event>
+		<id>2</id>
+		<name>NET Coaching - Computer Science &amp; Application by Dr. P. K. Swain</name>
+		<startdate>2018-11-3</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
 		<color>#ffb128</color>
 		<url></url>
 	</event>

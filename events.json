@@ -2,23 +2,23 @@
   "monthly": [
     {
       "id": 1,
-      "name": "This is a JSON event",
-      "startdate": "2018-8-15",
-      "enddate": "2018-8-18",
-      "starttime": "12:00",
-      "endtime": "2:00",
+      "name": "NET Coaching in Compute Science & Application by Dr. P. K. Swain",
+      "startdate": "2018-11-2",
+      "enddate": "2018-11-2",
+      "starttime": "16:00",
+      "endtime": "17:30",
       "color": "#FFB128",
       "url": ""
     },
     {
-      "id": 2,
-      "name": "This is a JSON event",
-      "startdate": "2018-8-15",
-      "enddate": "2018-8-15",
-      "starttime": "12:00",
-      "endtime": "13:00",
-      "color": "#EF44EF",
+      "id": 1,
+      "name": "NET Coaching in Compute Science & Application by Dr. P. K. Swain",
+      "startdate": "2018-11-3",
+      "enddate": "2018-11-3",
+      "starttime": "16:00",
+      "endtime": "17:30",
+      "color": "#FFB128",
       "url": ""
-    }
+    },
   ]
 }

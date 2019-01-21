@@ -7,6 +7,16 @@
 		<enddate></enddate>
 		<starttime>11:30</starttime>
 		<endtime>13:30</endtime>
+		<color>#00FF00</color>
+		<url></url>
+	</event>
+	<event>
+		<id>2</id>
+		<name>UGC/CSIR NET Coaching - Physical Science by Dr. Jyoti R. Sahu</name>
+		<startdate>2019-01-21</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
 		<color>#ffb128</color>
 		<url></url>
 	</event>

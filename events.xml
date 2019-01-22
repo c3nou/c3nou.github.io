@@ -17,6 +17,16 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
+		<color>#00FF00</color>
+		<url></url>
+	</event>
+	<event>
+		<id>3</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Dr. Prasanta K. Swain at CTS building</name>
+		<startdate>2019-01-22</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
 		<color>#ffb128</color>
 		<url></url>
 	</event>

@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <monthly>
+	<!-- #e4970f orange -->
+	<!-- #12a209 green -->
 	<event>
 		<id>1</id>
 		<name>Inaugural Lecture by Mr. Prasant K. Das, Addl. Secy, DHE, Odisha</name>
@@ -7,7 +9,7 @@
 		<enddate></enddate>
 		<starttime>11:30</starttime>
 		<endtime>13:30</endtime>
-		<color>#00FF00</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
@@ -17,17 +19,37 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#00FF00</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
 		<id>3</id>
-		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Dr. Prasanta K. Swain at CTS building</name>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Dr. Prasanta K. Swain at Dept. of Computer Application</name>
 		<startdate>2019-01-22</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#ffb128</color>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>4</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Prof. M. Himabindu at Dept. of Computer Application</name>
+		<startdate>2019-01-24</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>5</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Prof. M. Himabindu at Dept. of Computer Application</name>
+		<startdate>2019-01-25</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 </monthly>

@@ -59,13 +59,23 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
 		<id>7</id>
 		<name>UGC/CSIR NET Coaching - Physical Science by Dr. Jyoti R. Sahu at Dept. of Physics</name>
 		<startdate>2019-01-28</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>8</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Dr. Sujata Dash at Dept. of Computer Application</name>
+		<startdate>2019-01-29</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>

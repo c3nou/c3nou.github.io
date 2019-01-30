@@ -79,6 +79,36 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>9</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Dr. Sujata Dash at Dept. of Computer Application</name>
+		<startdate>2019-01-30</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>10</id>
+		<name>UGC/CSIR NET Coaching - Physical Science by Dr. I. Naik at Dept. of Physics</name>
+		<startdate>2019-01-30</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>11</id>
+		<name>UGC/CSIR NET Coaching - Chemical Science by Prof. P. K. Satapathy at Dept. of Chemistry</name>
+		<startdate>2019-01-30</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
 		<color>#e4970f</color>
 		<url></url>
 	</event>

@@ -112,4 +112,14 @@
 		<color>#e4970f</color>
 		<url></url>
 	</event>
+	<event>
+		<id>12</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Dr. J. K. Mantri at Dept. of Computer Application</name>
+		<startdate>2019-02-1</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
 </monthly>

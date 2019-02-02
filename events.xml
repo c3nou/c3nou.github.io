@@ -130,7 +130,7 @@
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 04-02-2019 -->
@@ -477,7 +477,7 @@
 	<!-- 03-02-2019 -->
 	<event>
 		<id>45</id>
-		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Prakash Basa at  Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Aurobindo Jena at  Room 34, Academic Block 3</name>
 		<startdate>2019-02-3</startdate>
 		<enddate></enddate>
 		<starttime>11:30</starttime>
@@ -485,6 +485,16 @@
 		<color>#e4970f</color>
 		<url></url>
 	</event>
-	
+	<!-- 04-02-2019 -->
+	<event>
+		<id>46</id>
+		<name>UGC/CSIR NET Coaching - Computer Science &amp; Applications by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
+		<startdate>2019-02-04</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
 	
 </monthly>

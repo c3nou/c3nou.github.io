@@ -136,7 +136,7 @@
 	<!-- 04-02-2019 -->
 	<event>
 		<id>14</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at Room 34, Academic Block 3</name>
 		<startdate>2019-02-4</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -147,7 +147,7 @@
 	<!-- 05-02-2019 -->
 	<event>
 		<id>15</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at Room 34, Academic Block 3</name>
 		<startdate>2019-02-5</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -158,7 +158,7 @@
 	<!-- 06-02-2019 -->
 	<event>
 		<id>16</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at Room 34, Academic Block 3</name>
 		<startdate>2019-02-6</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -169,7 +169,7 @@
 	<!-- 07-02-2019 -->
 	<event>
 		<id>17</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at Room 34, Academic Block 3</name>
 		<startdate>2019-02-7</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -180,7 +180,7 @@
 	<!-- 11-02-2019 -->
 	<event>
 		<id>18</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at Room 34, Academic Block 3</name>
 		<startdate>2019-02-11</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -191,7 +191,7 @@
 	<!-- 12-02-2019 -->
 	<event>
 		<id>19</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at Room 34, Academic Block 3</name>
 		<startdate>2019-02-12</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -202,7 +202,7 @@
 	<!-- 13-02-2019 -->
 	<event>
 		<id>20</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Bastia at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Bastia at Room 34, Academic Block 3</name>
 		<startdate>2019-02-13</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -213,7 +213,7 @@
 	<!-- 14-02-2019 -->
 	<event>
 		<id>21</id>
-		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Biswal at -</name>
+		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Biswal at Room 34, Academic Block 3</name>
 		<startdate>2019-02-14</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -221,5 +221,270 @@
 		<color>#e4970f</color>
 		<url></url>
 	</event>
+	<!-- 17-02-2019 Sunday-->
+	<event>
+		<id>22</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. G. Dhangadamajhi at Room 34, Academic Block 3</name>
+		<startdate>2019-02-17</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 18-02-2019-->
+	<event>
+		<id>23</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. G. Dhangadamajhi at Room 34, Academic Block 3</name>
+		<startdate>2019-02-18</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 19-02-2019-->
+	<event>
+		<id>24</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. G. Dhangadamajhi at Room 34, Academic Block 3</name>
+		<startdate>2019-02-19</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 20-02-2019-->
+	<event>
+		<id>25</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. P. R. Debata at Room 34, Academic Block 3</name>
+		<startdate>2019-02-20</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 21-02-2019-->
+	<event>
+		<id>26</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. P. R. Debata at Room 34, Academic Block 3</name>
+		<startdate>2019-02-21</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 25-02-2019-->
+	<event>
+		<id>27</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. C. Mahapatra at Room 34, Academic Block 3</name>
+		<startdate>2019-02-25</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 26-02-2019-->
+	<event>
+		<id>28</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. C. Mahapatra at Room 34, Academic Block 3</name>
+		<startdate>2019-02-26</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 27-02-2019-->
+	<event>
+		<id>29</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. C. Mahapatra at Room 34, Academic Block 3</name>
+		<startdate>2019-02-27</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 28-02-2019-->
+	<event>
+		<id>30</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Biswal at Room 34, Academic Block 3</name>
+		<startdate>2019-02-28</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 03-03-2019 Sunday -->
+	<event>
+		<id>31</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. G. Mohanty at Room 34, Academic Block 3</name>
+		<startdate>2019-03-3</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 06-03-2019-->
+	<event>
+		<id>32</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. S. C. Sahu at Room 34, Academic Block 3</name>
+		<startdate>2019-03-06</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 07-03-2019-->
+	<event>
+		<id>33</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. S. C. Sahu at Room 34, Academic Block 3</name>
+		<startdate>2019-03-07</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 10-03-2019 Sunday-->
+	<event>
+		<id>34</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. G. Mohanty at Room 34, Academic Block 3</name>
+		<startdate>2019-03-10</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 11-03-2019-->
+	<event>
+		<id>35</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Bishnupriya Hansdah at Room 34, Academic Block 3</name>
+		<startdate>2019-03-11</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 12-03-2019-->
+	<event>
+		<id>36</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. P. R. Debata at Room 34, Academic Block 3</name>
+		<startdate>2019-03-12</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 13-03-2019-->
+	<event>
+		<id>37</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Bastia at Room 34, Academic Block 3</name>
+		<startdate>2019-03-13</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 14-03-2019-->
+	<event>
+		<id>38</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. S. C. Sahu at Room 34, Academic Block 3</name>
+		<startdate>2019-03-14</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 17-03-2019 Sunday -->
+	<event>
+		<id>39</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. G. Mohanty at Room 34, Academic Block 3</name>
+		<startdate>2019-03-14</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 19-03-2019-->
+	<event>
+		<id>40</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Bishnupriya Hansdah at Room 34, Academic Block 3</name>
+		<startdate>2019-03-19</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 24-03-2019 Sunday -->
+	<event>
+		<id>41</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. S. K. Nayak at Room 34, Academic Block 3</name>
+		<startdate>2019-03-24</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 25-03-2019-->
+	<event>
+		<id>42</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. S. K. Nayak at Room 34, Academic Block 3</name>
+		<startdate>2019-03-25</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 26-03-2019-->
+	<event>
+		<id>43</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. S. K. Nayak at Room 34, Academic Block 3</name>
+		<startdate>2019-03-26</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 03-02-2019 -->
+	<event>
+		<id>44</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Prakash Basa at  Room 34, Academic Block 3</name>
+		<startdate>2019-02-3</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 03-02-2019 -->
+	<event>
+		<id>45</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Prakash Basa at  Room 34, Academic Block 3</name>
+		<startdate>2019-02-3</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	
 	
 </monthly>

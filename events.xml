@@ -109,7 +109,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
@@ -119,7 +119,107 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<!-- 02-02-2019 -->
+	<event>
+		<id>13</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. A. K. Biswal at Dept. of Botany</name>
+		<startdate>2019-02-2</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
 		<color>#e4970f</color>
 		<url></url>
 	</event>
+	<!-- 04-02-2019 -->
+	<event>
+		<id>14</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at -</name>
+		<startdate>2019-02-4</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 05-02-2019 -->
+	<event>
+		<id>15</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at -</name>
+		<startdate>2019-02-5</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 06-02-2019 -->
+	<event>
+		<id>16</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Dr. Santosh K. Sahu at -</name>
+		<startdate>2019-02-6</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 07-02-2019 -->
+	<event>
+		<id>17</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at -</name>
+		<startdate>2019-02-7</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 11-02-2019 -->
+	<event>
+		<id>18</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at -</name>
+		<startdate>2019-02-11</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 12-02-2019 -->
+	<event>
+		<id>19</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Mr. R. N. Munda at -</name>
+		<startdate>2019-02-12</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 13-02-2019 -->
+	<event>
+		<id>20</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Bastia at -</name>
+		<startdate>2019-02-13</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 14-02-2019 -->
+	<event>
+		<id>21</id>
+		<name>UGC/CSIR NET Coaching - Life Science by Prof. A. K. Biswal at -</name>
+		<startdate>2019-02-14</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	
 </monthly>

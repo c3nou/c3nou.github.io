@@ -3,9 +3,9 @@
 .monthly {
 	background: #F3F3F5;
 	color: #545454;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
+	-webkit-user-select: auto;
+	-moz-user-select: auto;
+	-ms-user-select: auto;
 	user-select: none;
 	position: relative;
 }

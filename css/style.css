@@ -1026,3 +1026,20 @@ letter-spacing : 1px;
 {
     * {-webkit-print-color-adjust:exact;}
 }
+
+@keyframes push {
+    from {
+        margin: 0;
+    }
+    to {
+        margin: 100%;
+    }
+}
+.marquee {
+    white-space: nowrap;
+    overflow: hidden;
+    color: #a00e0e;
+}
+.marquee > span:nth-child(1) {
+    animation:  40s linear 0s infinite push;
+}

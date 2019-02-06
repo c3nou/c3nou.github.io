@@ -74,7 +74,7 @@
 	</event>
 	<event>
 		<id>8</id>
-		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. Sujata Dash at Dept. of Computer Application</name>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
 		<startdate>2019-01-29</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -104,7 +104,7 @@
 	</event>
 	<event>
 		<id>11</id>
-		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. Sujata Dash at Dept. of Computer Application</name>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
 		<startdate>2019-01-31</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -159,18 +159,18 @@
 	<event>
 		<id>16</id>
 		<name>Life Science - UGC/CSIR NET Coaching by Dr. Santosh K. Sahu at Room 34, Academic Block 3</name>
-		<startdate>2019-02-6</startdate>
+		<startdate>2019-02-06</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 07-02-2019 -->
 	<event>
 		<id>17</id>
 		<name>Life Science - UGC/CSIR NET Coaching by Mr. R. N. Munda at Room 34, Academic Block 3</name>
-		<startdate>2019-02-7</startdate>
+		<startdate>2019-02-07</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
@@ -538,7 +538,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 07-02-2019 -->
@@ -571,7 +571,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 08-02-2019 -->
@@ -604,7 +604,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 07-02-2019 -->
@@ -1233,6 +1233,49 @@
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
 		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 27-03-2019-->
+	<event>
+		<id>113</id>
+		<name>Life Science - UGC/CSIR NET Coaching by Prof. U. B. Mohapatra at Room 34, Academic Block 3</name>
+		<startdate>2019-03-27</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 28-03-2019-->
+	<event>
+		<id>114</id>
+		<name>Life Science - UGC/CSIR NET Coaching by Prof. U. B. Mohapatra at Room 34, Academic Block 3</name>
+		<startdate>2019-03-28</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 29-03-2019-->
+	<event>
+		<id>115</id>
+		<name>Life Science - UGC/CSIR NET Coaching by Prof. U. B. Mohapatra at Room 34, Academic Block 3</name>
+		<startdate>2019-03-29</startdate>
+		<enddate></enddate>
+		<starttime>8:00</starttime>
+		<endtime>9:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>116</id>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
+		<startdate>2019-02-07</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 </monthly>

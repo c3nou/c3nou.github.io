@@ -578,7 +578,7 @@
 	<event>
 		<id>54</id>
 		<name>Written Test Related Coaching (Competitive) by Mr. Ashok kumar Nayak at  Room 34, Academic Block 3</name>
-		<startdate>2019-02-8</startdate>
+		<startdate>2019-02-08</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
@@ -589,11 +589,11 @@
 	<event>
 		<id>55</id>
 		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Ranjan Basa at Room 34, Academic Block 3</name>
-		<startdate>2019-02-9</startdate>
+		<startdate>2019-02-09</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 06-02-2019 -->
@@ -1268,6 +1268,7 @@
 		<color>#e4970f</color>
 		<url></url>
 	</event>
+	<!-- 07-02-2019-->
 	<event>
 		<id>116</id>
 		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
@@ -1276,6 +1277,566 @@
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
 		<color>#12a209</color>
+		<url></url>
+	</event>
+	<!-- 11-02-2019-->
+	<event>
+		<id>117</id>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<startdate>2019-02-11</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 12-02-2019-->
+	<event>
+		<id>118</id>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
+		<startdate>2019-02-12</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 13-02-2019-->
+	<event>
+		<id>119</id>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. S. K. Dash at Dept. of Computer Application</name>
+		<startdate>2019-02-13</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 14-02-2019-->
+	<event>
+		<id>119</id>
+		<name>Computer Sc. &amp; Application - UGC/CSIR NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<startdate>2019-02-14</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+		<!-- 18-02-2019-->
+	<event>
+		<id>120</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Prof. M. Himabindu at Dept. of Computer Application</name>
+		<startdate>2019-02-18</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 19-02-2019-->
+	<event>
+		<id>121</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
+		<startdate>2019-02-19</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 20-02-2019-->
+	<event>
+		<id>122</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
+		<startdate>2019-02-20</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 21-02-2019-->
+	<event>
+		<id>123</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<startdate>2019-02-21</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 25-02-2019-->
+	<event>
+		<id>124</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
+		<startdate>2019-02-25</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 26-02-2019-->
+	<event>
+		<id>125</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Prof. M. Himabindu at Dept. of Computer Application</name>
+		<startdate>2019-02-26</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 27-02-2019-->
+	<event>
+		<id>126</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
+		<startdate>2019-02-27</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 28-02-2019-->
+	<event>
+		<id>127</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
+		<startdate>2019-02-28</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 06-03-2019-->
+	<event>
+		<id>128</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<startdate>2019-03-06</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 07-03-2019-->
+	<event>
+		<id>129</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
+		<startdate>2019-03-07</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 11-03-2019-->
+	<event>
+		<id>130</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Prof. M. Himabindu at Dept. of Computer Application</name>
+		<startdate>2019-03-11</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 12-03-2019-->
+	<event>
+		<id>131</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
+		<startdate>2019-03-12</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 13-03-2019-->
+	<event>
+		<id>132</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
+		<startdate>2019-03-13</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 14-03-2019-->
+	<event>
+		<id>133</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<startdate>2019-03-14</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 18-03-2019 -->
+	<event>
+		<id>134</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
+		<startdate>2019-03-18</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 19-03-2019-->
+	<event>
+		<id>135</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Prof. M. Himabindu at Dept. of Computer Application</name>
+		<startdate>2019-03-19</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 20-03-2019 -->
+	<event>
+		<id>136</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name> <startdate>2019-03-20</startdate>
+		<enddate></enddate>
+		<starttime>14:00</starttime>
+		<endtime>15:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 25-03-2019-->
+	<event>
+		<id>137</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<startdate>2019-03-25</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 26-03-2019-->
+	<event>
+		<id>138</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. S. Dash at Dept. of Computer Application</name>
+		<startdate>2019-03-26</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 27-03-2019-->
+	<event>
+		<id>139</id>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
+		<startdate>2019-03-27</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+		<!-- 15-02-2019 -->
+	<event>
+		<id>140</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-02-15</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 16-02-2019 -->
+	<event>
+		<id>141</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-02-16</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 17-02-2019 -->
+	<event>
+		<id>142</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-02-17</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 17-02-2019 -->
+	<event>
+		<id>143</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-02-17</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 22-02-2019 -->
+	<event>
+		<id>144</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-02-22</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 23-02-2019 -->
+	<event>
+		<id>145</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-02-23</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 24-02-2019 -->
+	<event>
+		<id>146</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-02-24</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 24-02-2019 -->
+	<event>
+		<id>147</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-02-24</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 01-03-2019 -->
+	<event>
+		<id>148</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-01</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 02-03-2019 -->
+	<event>
+		<id>149</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-02</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 03-03-2019 -->
+	<event>
+		<id>150</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-03</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 03-03-2019 -->
+	<event>
+		<id>151</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-03</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 08-03-2019 -->
+	<event>
+		<id>152</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-08</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 09-03-2019 -->
+	<event>
+		<id>153</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-09</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 10-03-2019 -->
+	<event>
+		<id>154</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-10</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 10-03-2019 -->
+	<event>
+		<id>155</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-10</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 15-03-2019 -->
+	<event>
+		<id>156</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-15</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 16-03-2019 -->
+	<event>
+		<id>157</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-16</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 17-03-2019 -->
+	<event>
+		<id>158</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-17</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 17-03-2019 -->
+	<event>
+		<id>159</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-17</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 23-03-2019 -->
+	<event>
+		<id>160</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-23</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 24-03-2019 -->
+	<event>
+		<id>161</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-24</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 24-03-2019 -->
+	<event>
+		<id>162</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-24</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 29-03-2019 -->
+	<event>
+		<id>163</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-29</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 30-03-2019 -->
+	<event>
+		<id>164</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-30</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 31-03-2019 -->
+	<event>
+		<id>165</id>
+		<name>Written Test Related Coaching (Competitive) at  Room 34, Academic Block 3</name>
+		<startdate>2019-03-31</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<!-- 31-03-2019 -->
+	<event>
+		<id>166</id>
+		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<startdate>2019-03-31</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
 		<url></url>
 	</event>
 </monthly>

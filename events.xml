@@ -196,13 +196,13 @@
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 13-02-2019 -->
 	<event>
 		<id>20</id>
-		<name>Life Science - UGC/CSIR NET Coaching by Prof. A. K. Bastia at Room 34, Academic Block 3</name>
+		<name>Life Science - UGC/CSIR NET Coaching by Dr. P. R. Debata at Room 34, Academic Block 3</name>
 		<startdate>2019-02-13</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>
@@ -378,7 +378,7 @@
 	<!-- 12-03-2019-->
 	<event>
 		<id>36</id>
-		<name>Life Science - UGC/CSIR NET Coaching by Dr. P. R. Debata at Room 34, Academic Block 3</name>
+		<name>Life Science - UGC/CSIR NET Coaching by Prof. A. K. Bastia at Room 34, Academic Block 3</name>
 		<startdate>2019-03-12</startdate>
 		<enddate></enddate>
 		<starttime>8:00</starttime>

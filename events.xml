@@ -2,6 +2,7 @@
 <monthly>
 	<!-- #e4970f orange -->
 	<!-- #12a209 green -->
+	<!-- #fb0705 red -->
 	<event>
 		<id>1</id>
 		<name>Inaugural Lecture by Mr. Prasant K. Das, Addl. Secy, DHE, Odisha</name>
@@ -218,7 +219,7 @@
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 17-02-2019 Sunday-->
@@ -659,7 +660,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 18-02-2019 -->
@@ -1001,7 +1002,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 18-02-2019 -->
@@ -1309,7 +1310,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 		<!-- 18-02-2019-->

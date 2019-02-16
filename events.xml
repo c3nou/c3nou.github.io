@@ -1540,13 +1540,13 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 16-02-2019 -->
 	<event>
 		<id>141</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ganeswar Behera at Room 34, Academic Block 3</name>
 		<startdate>2019-02-16</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -1557,7 +1557,7 @@
 	<!-- 17-02-2019 -->
 	<event>
 		<id>142</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Deepti R Basa at Room 34, Academic Block 3</name>
 		<startdate>2019-02-17</startdate>
 		<enddate></enddate>
 		<starttime>10:00</starttime>
@@ -1568,7 +1568,7 @@
 	<!-- 17-02-2019 -->
 	<event>
 		<id>143</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) Mr. Ashok k Nayak at Room 34, Academic Block 3</name>
 		<startdate>2019-02-17</startdate>
 		<enddate></enddate>
 		<starttime>11:30</starttime>

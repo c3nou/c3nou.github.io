@@ -252,7 +252,7 @@
 		<enddate></enddate>
 		<starttime>8:30</starttime>
 		<endtime>10:00</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 20-02-2019-->
@@ -682,7 +682,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 20-02-2019 -->
@@ -1332,7 +1332,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 20-02-2019-->
@@ -1349,7 +1349,7 @@
 	<!-- 21-02-2019-->
 	<event>
 		<id>123</id>
-		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
 		<startdate>2019-02-21</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -1502,7 +1502,7 @@
 	<!-- 25-03-2019-->
 	<event>
 		<id>137</id>
-		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. P. K. Swain at Dept. of Computer Application</name>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
 		<startdate>2019-03-25</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>

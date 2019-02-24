@@ -715,7 +715,7 @@
 		<enddate></enddate>
 		<starttime>14:30</starttime>
 		<endtime>16:00</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 25-02-2019 -->
@@ -1595,13 +1595,13 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 24-02-2019 -->
 	<event>
 		<id>146</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Prakash Basa at Room 34, Academic Block 3</name>
 		<startdate>2019-02-24</startdate>
 		<enddate></enddate>
 		<starttime>10:00</starttime>
@@ -1612,7 +1612,7 @@
 	<!-- 24-02-2019 -->
 	<event>
 		<id>147</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ganeswar Behera at Room 34, Academic Block 3</name>
 		<startdate>2019-02-24</startdate>
 		<enddate></enddate>
 		<starttime>11:30</starttime>

@@ -766,7 +766,7 @@
 	<event>
 		<id>70</id>
 		<name>Chemical Science - UGC/CSIR NET Coaching by Dr. A. K. Jena at Dept. of Chemistry</name>
-		<startdate>2019-03-02</startdate>
+		<startdate>2019-03-08</startdate>
 		<enddate></enddate>
 		<starttime>14:30</starttime>
 		<endtime>16:00</endtime>
@@ -1628,13 +1628,13 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 02-03-2019 -->
 	<event>
 		<id>149</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Rajesh K. Dash at Room 34, Academic Block 3</name>
 		<startdate>2019-03-02</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>

@@ -787,7 +787,7 @@
 	<!-- 07-03-2019 -->
 	<event>
 		<id>72</id>
-		<name>Chemical Science - UGC/CSIR NET Coaching by Dr. L. Behera at Dept. of Chemistry</name>
+		<name>Chemical Science - UGC/CSIR NET Coaching by Dr. A. K. Jena at Dept. of Chemistry</name>
 		<startdate>2019-03-07</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -796,7 +796,7 @@
 		<url></url>
 	</event>
 	<!-- 09-03-2019 -->
-	<event>
+	<!-- <event>
 		<id>73</id>
 		<name>Chemical Science - UGC/CSIR NET Coaching by Dr. A. K. Jena at Dept. of Chemistry</name>
 		<startdate>2019-03-09</startdate>
@@ -805,7 +805,7 @@
 		<endtime>16:00</endtime>
 		<color>#e4970f</color>
 		<url></url>
-	</event>
+	</event> -->
 	<!-- 11-03-2019 -->
 	<event>
 		<id>74</id>

@@ -416,7 +416,7 @@
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 17-03-2019 Sunday -->
@@ -837,13 +837,13 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 14-03-2019 -->
 	<event>
 		<id>77</id>
-		<name>Chemical Science - UGC/CSIR NET Coaching by Dr. L. Behera at Dept. of Chemistry</name>
+		<name>Chemical Science - UGC/CSIR NET Coaching by Dr. A. K. Jena at Dept. of Chemistry</name>
 		<startdate>2019-03-14</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -1135,7 +1135,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 14-03-2019 -->
@@ -1164,11 +1164,11 @@
 	<event>
 		<id>107</id>
 		<name>Physical Science - UGC/CSIR NET Coaching by Dr. J. R. Sahu at Dept. of Physics</name>
-		<startdate>2019-03-23</startdate>
+		<startdate>2019-02-23</startdate>
 		<enddate></enddate>
 		<starttime>14:30</starttime>
 		<endtime>16:00</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 20-03-2019 -->
@@ -1454,7 +1454,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 14-03-2019-->

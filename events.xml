@@ -438,7 +438,7 @@
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 24-03-2019 Sunday -->
@@ -881,7 +881,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 20-03-2019 -->
@@ -1471,12 +1471,12 @@
 	<!-- 18-03-2019 -->
 	<event>
 		<id>134</id>
-		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
 		<startdate>2019-03-18</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 19-03-2019-->
@@ -1487,7 +1487,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 20-03-2019 -->
@@ -1503,7 +1503,7 @@
 	<!-- 25-03-2019-->
 	<event>
 		<id>137</id>
-		<name>Computer Sc. &amp; Application - UGC NET Coaching by Mr. Swarupananda Bissoyi at Dept. of Computer Application</name>
+		<name>Computer Sc. &amp; Application - UGC NET Coaching by Dr. J. K. Mantri at Dept. of Computer Application</name>
 		<startdate>2019-03-25</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>

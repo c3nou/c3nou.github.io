@@ -892,7 +892,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 23-03-2019 -->
@@ -903,7 +903,7 @@
 		<enddate></enddate>
 		<starttime>14:30</starttime>
 		<endtime>16:00</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 25-03-2019 -->
@@ -1179,7 +1179,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 25-03-2019 -->
@@ -1497,7 +1497,7 @@
 		<enddate></enddate>
 		<starttime>14:00</starttime>
 		<endtime>15:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 25-03-2019-->
@@ -1756,7 +1756,7 @@
 	<!-- 23-03-2019 -->
 	<event>
 		<id>160</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Rajkumar Sahu at Room 34, Academic Block 3</name>
 		<startdate>2019-03-23</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
@@ -1767,7 +1767,7 @@
 	<!-- 24-03-2019 -->
 	<event>
 		<id>161</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Deepti Ranjan Basa at Room 34, Academic Block 3</name>
 		<startdate>2019-03-24</startdate>
 		<enddate></enddate>
 		<starttime>10:00</starttime>
@@ -1778,7 +1778,7 @@
 	<!-- 24-03-2019 -->
 	<event>
 		<id>162</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ashok k Nayak at Room 34, Academic Block 3</name>
 		<startdate>2019-03-24</startdate>
 		<enddate></enddate>
 		<starttime>11:30</starttime>

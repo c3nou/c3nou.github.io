@@ -381,8 +381,8 @@
 		<name>Life Science - UGC/CSIR NET Coaching by Dr. Bishnupriya Hansdah at Room 34, Academic Block 3</name>
 		<startdate>2019-03-11</startdate>
 		<enddate></enddate>
-		<starttime>8:00</starttime>
-		<endtime>9:30</endtime>
+		<starttime>7:30</starttime>
+		<endtime>9:00</endtime>
 		<color>#12a209</color>
 		<url></url>
 	</event>
@@ -1789,23 +1789,23 @@
 	<!-- 29-03-2019 -->
 	<event>
 		<id>163</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Ganeswar Behera at Room 34, Academic Block 3</name>
 		<startdate>2019-03-29</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<!-- 30-03-2019 -->
 	<event>
 		<id>164</id>
-		<name>Written Test Related Coaching (Competitive) at Room 34, Academic Block 3</name>
+		<name>Written Test Related Coaching (Competitive) by Rajesh k Dash at Room 34, Academic Block 3</name>
 		<startdate>2019-03-30</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 31-03-2019 -->
@@ -1816,7 +1816,7 @@
 		<enddate></enddate>
 		<starttime>10:00</starttime>
 		<endtime>11:30</endtime>
-		<color>#e4970f</color>
+		<color>#fb0705</color>
 		<url></url>
 	</event>
 	<!-- 31-03-2019 -->
@@ -1837,6 +1837,16 @@
 		<enddate></enddate>
 		<starttime>8:00</starttime>
 		<endtime>9:30</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>167</id>
+		<name>Life Science - UGC/CSIR NET Coaching by Dr. Bishnupriya Hansdah at Room 34, Academic Block 3</name>
+		<startdate>2019-03-11</startdate>
+		<enddate></enddate>
+		<starttime>9:00</starttime>
+		<endtime>10:30</endtime>
 		<color>#12a209</color>
 		<url></url>
 	</event>

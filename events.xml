@@ -1850,4 +1850,15 @@
 		<color>#12a209</color>
 		<url></url>
 	</event>
+	<!-- 03-02-2019 -->
+	<event>
+		<id>168</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Prakash Basa at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-09-20</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
 </monthly>

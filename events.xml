@@ -1858,6 +1858,37 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<!-- 12a209 -->
+	<event>
+		<id>169</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ashok k Nayak at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-09-21</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>170</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Dipti Prakash Basa at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-09-22</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>171</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ganeshwar Behera at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-09-22</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
 		<color>#e4970f</color>
 		<url></url>
 	</event>

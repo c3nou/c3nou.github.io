@@ -1869,7 +1869,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
@@ -1879,7 +1879,7 @@
 		<enddate></enddate>
 		<starttime>10:00</starttime>
 		<endtime>11:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
@@ -1889,7 +1889,7 @@
 		<enddate></enddate>
 		<starttime>11:30</starttime>
 		<endtime>13:00</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 </monthly>

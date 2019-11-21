@@ -1979,7 +1979,7 @@
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
@@ -1989,13 +1989,53 @@
 		<enddate></enddate>
 		<starttime>10:00</starttime>
 		<endtime>11:30</endtime>
-		<color>#e4970f</color>
+		<color>#12a209</color>
 		<url></url>
 	</event>
 	<event>
 		<id>182</id>
 		<name>Written Test Related Coaching (Competitive) by Mr. Deepti Prakash Basa at 1st floor conf hall, HRDC Building</name>
 		<startdate>2019-11-17</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>183</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Deepti Prakash Basa at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-11-22</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>184</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Rakesh K Dash at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-11-23</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>185</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ashok K Nayak at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-11-24</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>186</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Aurobindo Jena at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-11-24</startdate>
 		<enddate></enddate>
 		<starttime>11:30</starttime>
 		<endtime>13:00</endtime>

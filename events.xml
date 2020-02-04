@@ -2082,6 +2082,16 @@
 		<color>#12a209</color>
 		<url></url>
 	</event>
+	<event>
+		<id>191</id>
+		<name>Special Lecture Session by Prof. Mahendra K Satapathy, Professor in Science &amp; Education &amp; Dean Academic, RIE, BBSR at 1st floor conf hall, HRDC Building</name>
+		<startdate>2019-12-06</startdate>
+		<enddate></enddate>
+		<starttime>15:30</starttime>
+		<endtime>17:00</endtime>
+		<color>#12a209</color>
+		<url></url>
+	</event>
 	<!-- e4970f -->
 	
 </monthly>

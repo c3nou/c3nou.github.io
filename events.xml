@@ -2092,6 +2092,46 @@
 		<color>#12a209</color>
 		<url></url>
 	</event>
+	<event>
+		<id>192</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Deepti Prakash Basa at 1st floor conf hall, HRDC Building</name>
+		<startdate>2020-02-07</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>193</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Raj kumar Sahu at 1st floor conf hall, HRDC Building</name>
+		<startdate>2020-02-08</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>194</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Ashok K Nayak at 1st floor conf hall, HRDC Building</name>
+		<startdate>2020-02-09</startdate>
+		<enddate></enddate>
+		<starttime>10:00</starttime>
+		<endtime>11:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>195</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Deepti Prakash Basa at 1st floor conf hall, HRDC Building</name>
+		<startdate>2020-02-09</startdate>
+		<enddate></enddate>
+		<starttime>11:30</starttime>
+		<endtime>13:00</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
 	<!-- e4970f -->
 	
 </monthly>

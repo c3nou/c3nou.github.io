@@ -7,10 +7,11 @@
                 "New York Bulls",
                 "Los Angeles Kings",
                 "Golden State Warriros",
-                "Huston Rocket",
+                "Houston Rockets",
                 "Huston New"
             ],
-            "answer": "4"
+            "answer": "4",
+            "explanation": "The Houston Rockets are an American professional basketball team based in Houston. They compete in the National Basketball Association (NBA) as a member team of the league's Western Conference Southwest Division. The team plays its home games at the Toyota Center, located in Downtown Houston. The Rockets have won two NBA championships and four Western Conference titles. The team was established in 1967 as the San Diego Rockets, an expansion team originally based in San Diego. In 1971, the Rockets moved to Houston."
         },
         {
         "question": "What is the capital of India ?",
@@ -21,7 +22,8 @@
                 "Kolkata",
                 "Chennai"
             ],
-            "answer": "1"
+            "answer": "1",
+            "explanation": "New Delhi is an urban district of Delhi which serves as the capital of India and seat of all three branches of the Government of India."            
         },
         {
         "question": "5 + 7 = ?",
@@ -32,7 +34,9 @@
                 "14",
                 "13"
             ],
-            "answer": "3"
+            "answer": "3",
+            "explanation": "Obvious Answer" 
+
         }
     ]
 }

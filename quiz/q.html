@@ -16,6 +16,15 @@
     <br>
     <p></p>
     <input type="button" id="btnNext" Value="Next" />
+    <hr>
+    <div id="explanation">
+    	<h2 id="legend"></h2>
+    	<h2>Explanation:</h2>
+    	<p id="detailedExplanation">
+    	</p>
+    	<input type="button" id="btnProceed" Value="Proceed" />
+    	
+    </div>
     <script type="text/javascript">
     	$.urlParam = function(name){
 			var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
@@ -46,6 +55,7 @@
     	}
 
     	function finish() {
+    		document.write("Thanks for participating in the test. Your answer is getting submitted...") ;
     		message = "Quiz Result, " + name + "," + email + ", " + phone + ", " + score ;
 			Email.send({
 			    SecureToken : "90c63571-0357-4b40-9024-bc4fd31b565b",
@@ -54,13 +64,16 @@
 			    Subject : message,
 			    Body : message
 			}).then(
-			  message => alert(message)
+			  message => alert("submitted Successfully")
+
 			);
 
     	}
 
     	$(document).ready(function(){
-    		const URL = 'https://c3nou.github.io/quiz/ex.json' ;
+
+    		$("#explanation").hide() ;
+    		const URL = 'http://localhost/quiz/ex.json' ;
 			var request = new XMLHttpRequest();
 			request.open('GET', URL, true); 
 			request.responseType = 'text'; // if you make it json, request.response becomes a json object
@@ -79,8 +92,25 @@
 		        var selValue = $('input[name=rbnNumber]:checked').val(); 
 		        $('input[name=rbnNumber]:checked').prop("checked", false);
 		        if ( selValue == quiz.questions[counter].answer)
+		        {
 		        	score++ ;
-		        
+		        	$("#legend").html("You answered Correct") ;	
+		        	$("#legend").css("color", "green");
+		        }
+		        else
+		        {
+		        	$("#legend").html("You answered Wrong") ;	
+		        	$("#legend").css("color", "red");
+		        }
+
+		        $("#btnNext").hide() ;
+		        $("#detailedExplanation").html(quiz.questions[counter].explanation) ;
+		        $("#explanation").show() ;
+		});
+
+		$('#btnProceed').click(function() {
+		        $("#btnNext").show() ;
+		        $("#explanation").hide() ;
 		        counter++ ;
 		        if ( counter == quiz.questions.length-1) // if last question
 		        {
@@ -89,7 +119,6 @@
 		        
 		        if ( counter == quiz.questions.length)
 		        {
-
 		        	finish() ;
 		        }
 		        else

@@ -1,0 +1,57 @@
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">
+	<style type="text/css">
+		h1 {
+			font-family: 'Yanone Kaffeesatz', sans-serif;
+			text-align: left;
+			color: #a00e0e;
+			font-size: 36px;
+			text-shadow: 0 0px 30px rgba(0, 0, 0, 0.2);
+		}
+		label {
+		    display: block;
+		    font: 1rem 'Fira Sans', sans-serif;
+		}
+
+		input,
+		label {
+		    margin: .4rem 0;
+		}
+		img {
+		   width: 5%;
+		   height: 10%;
+		 }
+
+	</style>
+</head>
+
+<body>
+	 <script type="text/javascript" src="jquery-1.11.2.min.js"></script>
+    <script type="text/javascript">
+		
+
+    </script>
+    <img src="../img/nou-logo.png" width="104px" height="98px">
+    <h1>Career &amp; Counseling Cell<br>North Orissa University</h1>
+ 	<h2>Online Test Module</h1>   
+ 	<h3>Please register with your details and then proceed</h3>
+ 	<label for="name">Name:</label>
+	<input type="text" id="name" name="name" required minlength="3" maxlength="48" size="50">	
+	<label for="email">EMail:</label>
+	<input type="text" id="email" name="email" required minlength="4" maxlength="48" size="50">	
+	<label for="phone">Phone:</label>
+	<input type="text" id="phone" name="phone" required minlength="3" maxlength="10" size="50">	
+	<br>
+    <input type="button" id="btnSubmit" Value="Submit" />
+    
+    <script type="text/javascript">
+    	$(document).ready(function(){
+		    $('#btnSubmit').click(function() {
+		    	window.location = "q.html?name=" + $('#name').val() + '&email=' +  $('#email').val() + '&phone=' +  $('#phone').val() ;
+		    });
+		});
+    </script>
+
+</body>
+</html>

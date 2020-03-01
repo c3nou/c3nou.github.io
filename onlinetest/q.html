@@ -30,9 +30,6 @@
     <hr>
     <div id="explanation">
     	<h2 id="legend"></h2>
-    	<h2>Explanation:</h2>
-    	<p id="detailedExplanation">
-    	</p>
     	<input type="button" id="btnProceed" Value="Proceed" />
     	
     </div>
@@ -73,7 +70,7 @@
     	function finish() {
     		timeTaken = $('#eTimer').text() ;
     		document.write("Thanks for participating in the test. Your answer is getting submitted...") ;
-    		message = "Test Result, "+ quiz.moduleName + ", " + name + "," + email + ", " + phone + ", " + score + ", " + timeTaken ;
+    		message = "Test Result, "+ quiz.moduleName + ", " + name + "," + email + ", " + score + ", " + timeTaken ;
 			Email.send({
 			    SecureToken : "90c63571-0357-4b40-9024-bc4fd31b565b",
 			    To : [ email, 'swarupananda@rediffmail.com' ],
@@ -104,7 +101,8 @@
 
 				loadN() ;
 
-				var date = new Date().addSeconds(5) / 1000
+				//var date = new Date().addSeconds(5) / 1000
+				var date = new Date().addSeconds(0) / 1000
 
 				$('.timer2').countid({
 					clock: true,
@@ -138,7 +136,6 @@
 		        }
 
 		        $("#btnNext").hide() ;
-		        $("#detailedExplanation").html(quiz.questions[counter].explanation) ;
 		        $("#explanation").show() ;
 		});
 

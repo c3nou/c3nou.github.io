@@ -2215,7 +2215,7 @@
 	<event>
 		<id>204</id>
 		<name>Written Test Related Coaching (Competitive) by Mr. Rajesh K Dash at 1st floor conf hall, HRDC Building</name>
-		<startdate>2020-04-06</startdate>
+		<startdate>2020-03-06</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
@@ -2225,7 +2225,7 @@
 	<event>
 		<id>205</id>
 		<name>Written Test Related Coaching (Competitive) by Mr. Deepti prakash Basa at 1st floor conf hall, HRDC Building</name>
-		<startdate>2020-03-06</startdate>
+		<startdate>2020-03-07</startdate>
 		<enddate></enddate>
 		<starttime>16:00</starttime>
 		<endtime>17:30</endtime>
@@ -2250,6 +2250,26 @@
 		<starttime>11:30</starttime>
 		<endtime>13:00</endtime>
 		<color>#12a209</color>
+		<url></url>
+	</event>
+	<event>
+		<id>208</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Deepti prakash Basa at 1st floor conf hall, HRDC Building</name>
+		<startdate>2020-03-13</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
+		<url></url>
+	</event>
+	<event>
+		<id>209</id>
+		<name>Written Test Related Coaching (Competitive) by Mr. Raj kumar Sahu at 1st floor conf hall, HRDC Building</name>
+		<startdate>2020-03-14</startdate>
+		<enddate></enddate>
+		<starttime>16:00</starttime>
+		<endtime>17:30</endtime>
+		<color>#e4970f</color>
 		<url></url>
 	</event>
 	<!-- e4970f -->
